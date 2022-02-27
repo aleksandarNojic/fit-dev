@@ -9,6 +9,8 @@
 
 
 ### Steps to do
+> composer install
+
 # Create tables
 > php artisan migrate
 
