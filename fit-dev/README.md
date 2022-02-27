@@ -9,11 +9,11 @@
 
 
 ### Steps to do
-#to create tables
+# Create tables
 > php artisan migrate
 
-#Seed test data
+# Seed test data
 > php artisan db:seed
 
-#API Endpoint with required params object_uuid and card_uuid
+# API Endpoint with required params object_uuid and card_uuid
 >[GET] api/reception?object_uuid=&card_uuid=
